@@ -6,7 +6,7 @@
     "author": "Shubham Nautiyal",
     "keywords":  ["unity", "logger", "utility"],
     "dependencies": {
-    "com.ls.logger": "https://github.com/ShubhamNautiyal123/UnityLogger.git#v1.0.0"
+    "com.ls.logger": "https://github.com/ShubhamNautiyal123/Logger.git#v1.0.0"
     },
     "references": [
     "Runtime/Utility"
