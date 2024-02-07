@@ -5,9 +5,6 @@
     "description":  "Introducing an optimized logging tool tailored for Unity development. This utility offers customizable log types, message classification, and color-coded output for efficient debugging. Specifically designed for development environments, logs are disabled in production builds to optimize performance and resource usage.",
     "author": "Shubham Nautiyal",
     "keywords":  ["unity", "logger", "utility"],
-    "dependencies": {
-    "com.ls.logger": "https://github.com/ShubhamNautiyal123/Logger.git#v1.0.0"
-    },
     "references": [
     "Runtime/Utility"
      ]
