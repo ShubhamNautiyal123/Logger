@@ -6,6 +6,7 @@
     "author": "Shubham Nautiyal",
     "keywords": ["unity", "logger", "utility"],
     "category": "",
+    "license": "MIT",
     "dependencies": {},
     "references": [
         "Runtime/Utility"
